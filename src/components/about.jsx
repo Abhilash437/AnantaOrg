@@ -27,7 +27,7 @@ const About = () => {
         However, like any religious movement, Ananta also faces its share of criticism and skepticism. Some critics question Ananta's authority as a spiritual leader and express concerns about the lack of traditional religious structures and guidelines within the cult. However, Ananta remains steadfast in his belief that spirituality is a personal journey and that the true essence of religion lies in its ability to foster love, compassion, and understanding among all beings.
         <br></br>
         <br></br>
-        In conclusion, Ananta offers a refreshing and unconventional approach to spirituality and religion. Its message of universal love, compassion, and acceptance has the potential to bring about positive change in the world. Through its unique method of preaching with fewer rules and an emphasis on personal responsibility, Ananta strives to create a new world where everyone loves and respects every other living being. As Ananta often says, "Let us awaken to the infinite power of love within us and create a world where peace reigns supreme, and all beings live in harmony as one</p>
+        In conclusion, Ananta offers a refreshing and unconventional approach to spirituality and religion. Its message of universal love, compassion, and acceptance has the potential to bring about positive change in the world. Through its unique method of preaching with fewer rules and an emphasis on personal responsibility, Ananta strives to create a new world where everyone loves and respects every other living being. As Ananta often says, "Let us awaken to the infinite power of love within us and create a world where peace reigns supreme, and all beings live in harmony as one".</p>
     </div>
   )
 }
